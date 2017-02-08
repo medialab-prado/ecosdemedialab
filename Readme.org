@@ -1,0 +1,142 @@
+#+CATEGORY: congreso, comunicación, evento
+#+TAGS: podcast, audio, multimedia
+#+DESCRIPTION: Propuesta de comunicación con Podcasts para IODC16
+#+TITLE: Podcasts IODC16
+#+DATE: [2016-06-11 sáb 10:30]
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolflow@infotics.es
+#+OPTIONS: todo:nil pri:nil tags:nil ^:nil 
+
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:nil
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: linear
+#+REVEAL_THEME: sky
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal Introduction.">
+#+REVEAL_POSTAMBLE: <p> Creado por adolflow. </p>
+#+REVEAL_PLUGINS: (highlight markdown notes)
+#+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
+#+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
+
+* Podcasts IODC16
+El podcasting o podcast es radio bajo demanda, es decir, distribución
+de archivos multimedia (normalmente audio o vídeo, que pueden incluir
+texto como subtítulos y notas) mediante un sistema de redifusión (RSS)
+que permite opcionalmente suscribirse y usar un programa que lo
+descarga para que el usuario lo escuche. (Wikipedia, https://es.wikipedia.org/wiki/Podcasting)
+
+Su origen se remonta a 2004 cuando Ben Hammersley, periodista de The
+Guardian, editor de Wired y autor de O'Reilly Media, acuñó el término.
+
+Adam Curry, emprendedor de la Web, lo dio forma: a partir de RSS de
+Dave Winner y Aaron Swartz, incorporar elementos para incluir archivos
+adjuntos que fueran leídos por un software de reproducción de música
+para iPod, el el iPodder.
+
+Con el tiempo se ha asociado más podcast a archivo de audio que a
+multimedia.
+
+* Uso
+
+Se utiliza para:
+- Difundir contenidos específicos de una comunidad de intereses.
+- Como un canal más de comunicación en una estrategia transmedia.
+- Como un blog sonoro
+- Un formato ágil de un medio especializados
+- Un espacio de desarrollo de una idea o un tema.
+
+* Formatos
+
+Qué formatos encajan:
+
+- Entrevistas
+- Resumen de noticias
+- Conversaciones
+- Series
+
+* Ejemplos
+
+** Fellow the data
+Fellow the data comenzó recientemente (20160418, dos episodios) para
+hablar sobre el uso de los datos en la educación, las artes, el medio ambiente, la salud pública
+y la innovación gubernamental.
+
+Nace bajo la premisa del fundador Mike Bloomberg de que "si algo no puedes
+medirlo, no puedes gestionarlo", y es lo que hace tan importante que
+tenga que haber estrategias guiadas por datos que estén entre las que
+determinan el éxito de un proyecto cualquiera.
+
+Los podcasts comienzan con unxs invitados que compartirán sus
+experiencias y proyectos sobre el impacto de los datos.
+
+Se pueden descargar de iTunes o de SoundCloud.com/Follow-The-Data
+
+https://soundcloud.com/follow-the-data/follow-the-data-podcast-episode-1-moving-beyond-coal
+
+** Journalism News
+- Podcasts: https://soundcloud.com/journalismnews
+- URL: https://journalism.co.uk
+- Software: Soundcloud
+
+El portal de periodismo de Reino Unido journalism.co.uk lleva este
+podcast sobre noticias, herramientas digitales y consejos para
+periodistas y editores.
+
+** Datastories
+- Podcasts: https://soundcloud.com/datastories
+- URL: http://datastori.es/
+- Software: https://github.com/podlove/podlove-web-player
+- CMS: Wordpress
+- Formato: conversaciones
+
+Un podcast de visualización de datos con Enrico Bertini y Moritz
+Stefaner. Con más de 40 programas, son una referencia fundamental.
+
+* Youtube
+buenas, de la playlist de datosddhh
+ https://www.youtube.com/playlist?list=PLRhlC7Aey_sTMgcv4HvBgT3JtdKu-6zU6
+ y de otras como las jpd16 https://www.youtube.com/playlist?list=PLRhlC7Aey_sQ-X-OD7t701m2CmomHDf44
+ o journocoders
+ https://www.youtube.com/playlist?list=PLRhlC7Aey_sRA8t-0JTX6weS48yLDVYFg
+ todos recogidos en https://www.youtube.com/playlist?list=PLRhlC7Aey_sTwfdPBptcZu_lDu3YZ2BZ0
+ he creado una lista para la expo de medialab de los proyectos del taller: https://www.youtube.com/playlist?list=PLRhlC7Aey_sRifWf0NI1dW9CpK1U_ztQg
+ Incluye el vídeo del taller de este año: https://www.youtube.com/watch?v=FDqxPJgPwBU&list=PLRhlC7Aey_sRifWf0NI1dW9CpK1U_ztQg&index=1&t=39s
+YouTube
+IV Taller de producción de Periodismo de datos: Trazar los Derechos Humanos
+[Vídeo]
+ Espero que podáis pasar por Medialab a verlo en algún momento si no habéis podido ir hoy
+
+
+* Propuesta
+
+Realizar un podcast semanal/quincenal a partir del 1 de julio durante
+los tres meses previos a la conferencia, con una duración variable de
+dos a cinco minutos y compuestos por un resumen de noticias del IODC16
+y una conversación con algunx de lxs participantes en la conferencia.
+
+** Periodicidad
+- Una semana
+- Dos semanas
+** Duración
+
+- 2 minutos, solo un resumen
+- 5 minutos, resumen y conversación
+- 10 minutos, resumen y conversación extendida.
+
+** Conversaciones
+
+- Comité asesor
+- Comité Organizador
+- Comité de programa
+- Ponentes.
+- Periodistas.
+- Patrocinadores.
+
+** Idiomas
+- Español
+- Inglés?
