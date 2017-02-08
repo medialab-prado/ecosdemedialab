@@ -1,10 +1,10 @@
 #+CATEGORY: congreso, comunicación, evento
 #+TAGS: podcast, audio, multimedia
-#+DESCRIPTION: Propuesta de comunicación con Podcasts para IODC16
-#+TITLE: Podcasts IODC16
-#+DATE: [2016-06-11 sáb 10:30]
+#+DESCRIPTION: Propuesta de realización de podcasts para las actividades del laboratorio de datos durante 2017
+#+TITLE: Ecos de Medialab
+#+DATE: <2017-02-08 mié 10:30>
 #+AUTHOR: Adolfo Antón Bravo
-#+EMAIL: adolflow@infotics.es
+#+EMAIL: adolfo@medialab-prado.es
 #+OPTIONS: todo:nil pri:nil tags:nil ^:nil 
 
 #+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
@@ -23,7 +23,6 @@
 #+REVEAL_EXTRA_CSS: file:///home/flow/Documentos/software/reveal.js/css/reveal.css
 #+REVEAL_ROOT: file:///home/flow/Documentos/software/reveal.js/
 
-* Podcasts IODC16
 El podcasting o podcast es radio bajo demanda, es decir, distribución
 de archivos multimedia (normalmente audio o vídeo, que pueden incluir
 texto como subtítulos y notas) mediante un sistema de redifusión (RSS)
@@ -79,64 +78,30 @@ Se pueden descargar de iTunes o de SoundCloud.com/Follow-The-Data
 https://soundcloud.com/follow-the-data/follow-the-data-podcast-episode-1-moving-beyond-coal
 
 ** Journalism News
-- Podcasts: https://soundcloud.com/journalismnews
-- URL: https://journalism.co.uk
-- Software: Soundcloud
 
-El portal de periodismo de Reino Unido journalism.co.uk lleva este
-podcast sobre noticias, herramientas digitales y consejos para
+El portal de periodismo de Reino Unido [[https://journalism.co.uk][journalism.co.uk]] lleva este
+[[https://soundcloud.com/journalismnews][podcast]] sobre noticias, herramientas digitales y consejos para
 periodistas y editores.
 
 ** Datastories
-- Podcasts: https://soundcloud.com/datastories
-- URL: http://datastori.es/
-- Software: https://github.com/podlove/podlove-web-player
-- CMS: Wordpress
-- Formato: conversaciones
 
-Un podcast de visualización de datos con Enrico Bertini y Moritz
-Stefaner. Con más de 40 programas, son una referencia fundamental.
-
-* Youtube
-buenas, de la playlist de datosddhh
- https://www.youtube.com/playlist?list=PLRhlC7Aey_sTMgcv4HvBgT3JtdKu-6zU6
- y de otras como las jpd16 https://www.youtube.com/playlist?list=PLRhlC7Aey_sQ-X-OD7t701m2CmomHDf44
- o journocoders
- https://www.youtube.com/playlist?list=PLRhlC7Aey_sRA8t-0JTX6weS48yLDVYFg
- todos recogidos en https://www.youtube.com/playlist?list=PLRhlC7Aey_sTwfdPBptcZu_lDu3YZ2BZ0
- he creado una lista para la expo de medialab de los proyectos del taller: https://www.youtube.com/playlist?list=PLRhlC7Aey_sRifWf0NI1dW9CpK1U_ztQg
- Incluye el vídeo del taller de este año: https://www.youtube.com/watch?v=FDqxPJgPwBU&list=PLRhlC7Aey_sRifWf0NI1dW9CpK1U_ztQg&index=1&t=39s
-YouTube
-IV Taller de producción de Periodismo de datos: Trazar los Derechos Humanos
-[Vídeo]
- Espero que podáis pasar por Medialab a verlo en algún momento si no habéis podido ir hoy
-
+Un [[http://datastori.es/][podcast]] de visualización de datos con Enrico Bertini y Moritz
+Stefaner. Con más de 40 programas, son una referencia fundamental. Aunque lo ponen en su propia web con un [[y][plugin de Wordpress]], también tienen un [[https://soundcloud.com/datastories][soundcloud]]
 
 * Propuesta
 
-Realizar un podcast semanal/quincenal a partir del 1 de julio durante
-los tres meses previos a la conferencia, con una duración variable de
-dos a cinco minutos y compuestos por un resumen de noticias del IODC16
-y una conversación con algunx de lxs participantes en la conferencia.
+Realizar unos cuantos podcast antes de junio de 2017 de las actividades relacionadas con el laboratorio de datos:
+- 11 febrero, día de las mujeres y las niñas científicas, editatona de la Wikipedia.
+- 14 febrero, ILOVEFS
+- 4 marzo, día de los datos abiertos
+- Abril, mayo y junio, taller de producción de periodismo de datos /La España vacía/
+- 3-6 mayo, Jornadas de Periodismo de Datos.
 
-** Periodicidad
-- Una semana
-- Dos semanas
 ** Duración
 
-- 2 minutos, solo un resumen
-- 5 minutos, resumen y conversación
-- 10 minutos, resumen y conversación extendida.
-
+Por determinar
 ** Conversaciones
-
-- Comité asesor
-- Comité Organizador
-- Comité de programa
-- Ponentes.
-- Periodistas.
-- Patrocinadores.
 
 ** Idiomas
 - Español
-- Inglés?
+- ¿Inglés?
