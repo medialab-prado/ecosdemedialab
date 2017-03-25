@@ -88,6 +88,9 @@ periodistas y editores.
 Un [[http://datastori.es/][podcast]] de visualización de datos con Enrico Bertini y Moritz
 Stefaner. Con más de 40 programas, son una referencia fundamental. Aunque lo ponen en su propia web con un [[y][plugin de Wordpress]], también tienen un [[https://soundcloud.com/datastories][soundcloud]]
 
+** La tecnología para todos
+- URL: https://programarfacil.com/
+- Podcast: http://www.ivoox.com/podcast-tecnologia-para-todos_sq_f1161932_1.html
 * Propuesta
 
 Realizar unos cuantos podcast antes de junio de 2017 de las actividades relacionadas con el laboratorio de datos:
