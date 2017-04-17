@@ -90,7 +90,22 @@ Stefaner. Con más de 40 programas, son una referencia fundamental. Aunque lo po
 
 ** La tecnología para todos
 - URL: https://programarfacil.com/
-- Podcast: http://www.ivoox.com/podcast-tecnologia-para-todos_sq_f1161932_1.html
+- Podcast:
+  http://www.ivoox.com/podcast-tecnologia-para-todos_sq_f1161932_1.html
+
+De cada podcast hace un interesante artículo. Por ejemplo, el [[https://programarfacil.com/podcast/david-cuartielles-open-hardware/][108]] donde
+entrevista a David Cuartielles, cofundador de Arduino y del Open
+Hardware
+
+** Autodefensa informática
+   :PROPERTIES:
+   :URL:      https://autodefensainformatica.radioalmaina.org/
+   :Radio:    Radio Almaina
+   :Ciudad:   Granada
+   :Blog:     Wordpress
+   :Podcast:  Archive.org
+   :END:      
+
 * Propuesta
 
 Realizar unos cuantos podcast antes de junio de 2017 de las actividades relacionadas con el laboratorio de datos:
